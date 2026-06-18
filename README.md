@@ -33,7 +33,7 @@ This project demonstrates how to deploy a containerized backend application to A
 
 Full project documentation is available in:
 
-📄 Deploy_Backend_With_Kubernetes.pdf
+[legendary-aws-compute-eks4_with_Diagram.pdf](https://github.com/user-attachments/files/29071166/legendary-aws-compute-eks4_with_Diagram.pdf)
 
 ## Key Skills Demonstrated
 
